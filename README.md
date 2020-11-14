@@ -12,3 +12,7 @@
 - Bonus: Game displays number of games won and lost, as well as win percentage, when asking player whether to continue. (10 pts)
 - Total points: 110
 - Note: I intended to make this be a GUI using tkinter (or PyGame), but my car broke down and distracted me from doing so unfortunately. So instead I opted for CLI.
+
+## Project 2: Kattis
+- Problem of difficulty 1.8 solved (70/3 pts)
+    - Used 3 test cases (30/3 pts)
