@@ -15,4 +15,14 @@
 
 ## Project 2: Kattis
 - Problem of difficulty 1.8 solved (70/3 pts)
+    - towers.py
+    - https://open.kattis.com/problems/tornbygge
+    - Used 3 test cases (30/3 pts)
+- Problem of difficulty 1.9 solved (70/3 pts)
+    - addition.py
+    - https://open.kattis.com/problems/simpleaddition
+    - Used 3 test cases (30/3 pts)
+- Problem of difficulty 2.0 solved (70/3 pts)
+    - printing.py
+    - https://open.kattis.com/problems/printingcosts
     - Used 3 test cases (30/3 pts)
