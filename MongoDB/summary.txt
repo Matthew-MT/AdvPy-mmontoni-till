@@ -1,0 +1,7 @@
+Event attended: AMA Panel: Sharding
+
+    What struck me as an interesting feature of MongoDB explained by this event was the ability to shard a project's database to both reduce the load on each individual cluster and greatly improve access time for data.
+    However, MongoDB has gone a step further with sharding: As well as allowing a database to be split into shards in such a manner, it's also possible to specificy a shard key that determines how the data is sharded, and also change this shard key without any downtime to your cluster.
+    This is impressive to me because it allows a project that has grown in capacity, such as when more and more users are using said project, to adapt to the amount of data it is collecting.
+    Like the example in the event, this makes it possible to account for certain "chunks" of data, say, one user's data, to be split later on, when, say, that user has collected a large amount of data, but other users haven't, thus putting more strain on one shard.
+    I look forward to using MongoDB in future projects, as I have past experience with it and find it intuitive and powerful to use.
