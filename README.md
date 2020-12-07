@@ -26,3 +26,15 @@
     - printing.py
     - https://open.kattis.com/problems/printingcosts
     - Used 3 test cases (30/3 pts)
+
+## Project 3: Integer Calculator
+- Uses GUI interface to display calculator screen, with buttons and an input box as GUI elements for the user to interact with.
+- Allows the user to do a number of different operations, including addition, subtraction, multiplication, division, exponentiation, and square roots.
+- Displays answer in input box, allowing user to continue performing operations if needed.
+- More operations can easily be added, by simply creating the operation function and adding the button that calls it.
+- How to run:
+    - Open terminal, and navigate to the folder containing main.py.
+    - Run main.py using `python3 main.py` in the command line.
+    - A window will pop up with the user interface fully initialized, you may now use the calculator.
+    - When done, simply close window.
+- GIF of program operation saved in file "screenshot.gif".
